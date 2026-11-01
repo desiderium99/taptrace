@@ -7,7 +7,7 @@
   <img alt="Portable" src="https://img.shields.io/badge/Portable-No%20installer-58e4bb?style=flat-square">
 </p>
 
-**TapTrace** is a lightweight Windows overlay that shows your keyboard and mouse presses in real time. Keep your movement and clicks visible with a compact layout designed around the inputs you use in VALORANT.
+**TapTrace** is a lightweight Windows overlay that shows your keyboard and mouse presses in real time. Keep your movement and clicks visible with a compact layout designed around the inputs you use in games (tested in VALORANT.)
 
 <p align="center">
   <img src="assets/overlay-preview.png" alt="TapTrace with W, Left Shift, and LMB highlighted in coral" width="230">
