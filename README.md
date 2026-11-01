@@ -10,7 +10,7 @@
 **TapTrace** is a lightweight Windows overlay that shows your keyboard and mouse presses in real time. Keep your movement and clicks visible with a compact layout designed around the inputs you use in games (tested in VALORANT.)
 
 <p align="center">
-  <img src="assets/overlay-preview.png" alt="TapTrace with W, Left Shift, and LMB highlighted in coral" width="230">
+  <img src="preview-taptrace.png" alt="TapTrace with W, Left Shift, and LMB highlighted in coral" width="230">
   <br>
   <sub>A preview with W, Left Shift, and LMB pressed.</sub>
 </p>
@@ -33,6 +33,14 @@
 | | **M5** — forward button |
 
 Left and right modifiers are distinguished: Right Shift and Right Ctrl do not light the left-side indicators.
+
+## 🎛️ Customization panel
+
+<p align="center">
+  <img src="preview-customization.png" alt="TapTrace customization panel showing overlay visibility, click-through locking, size and opacity sliders, Coral, Mint, and Lilac colors, and the live input preview" width="740">
+  <br>
+  <sub>Fine-tune size, opacity, and press colors with the live preview beside your controls.</sub>
+</p>
 
 ## 🚀 Get started
 
